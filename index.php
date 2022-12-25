@@ -35,14 +35,14 @@
       <div class="title">Welcome</div>
       <div class="subtitle">Let's create your account!</div>
       <div class="input-container ic1">
-        <input id="firstname" name="firstname" class="input" type="text" placeholder=" " />
+        <input id="name" name="name" class="input" type="text" placeholder=" " />
         <div class="cut"></div>
-        <label for="firstname" class="placeholder">First name</label>
+        <label for="name" class="placeholder">First name</label>
       </div>
       <div class="input-container ic2">
-        <input id="lastname" name="lastname" class="input" type="text" placeholder=" " />
+        <input id="surname" name="surname" class="input" type="text" placeholder=" " />
         <div class="cut"></div>
-        <label for="lastname" class="placeholder">Last name</label>
+        <label for="surname" class="placeholder">Last name</label>
       </div>
       <div class="input-container ic2">
         <input id="email" name="email" class="input" type="text" placeholder=" " />
